@@ -4,23 +4,20 @@ Zoom recording: ...
 
 All videos available here:
 
-https://drive.google.com/drive/folders/1iPmJ1L5V2IBsg5tzj1y8uqqI7hAcpr7o
+https://drive.google.com/drive/folders/18t4Z6nuS2zelq4jANHcfByAU3kQgDmnW
 
 Slides to follow along:
 
-https://docs.google.com/presentation/d/1pFmBwAc7Vn6HivLY34FKJKpD_AWvOqjEHyCJBLeh-NY/edit#slide=id.g7526e48fc7_0_0
+https://docs.google.com/presentation/d/1is67lPIq7rgSHuFb0-bf1xQt3LrdUCbk2Ef7tyc7P0E/edit#slide=id.g8490938618_0_5
 
 Reading:
 
-https://cseweb.ucsd.edu/classes/sp17/cse11-a/lecture19.html
+No new reading (review 19/20)
 
-You can read past the remarks about “linked lists,”which were covered in
-lecture in S17 but not in the reading, and aren't necessary for understanding
-the reading on arrays.
 
-Gradescope quiz (due by 10am day of next lecture, in this case 10am April 21):
+Gradescope quiz (due by 10am day of next lecture)
 
-https://www.gradescope.com/courses/106159
+
 
 Reminder to check the course web site for other deadlines:
 
